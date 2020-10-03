@@ -1,17 +1,20 @@
 # Softmax Recurrent Unit (SMRU)
 
-This repository contains the implementation and most of the experiments of the SMRU as reported in the paper [Softmax Recurrent Unit: A new type of gated RNN cell](https://arxiv.org/abs/XXXX.YYYYY) by Lucas Vos and Twan van Laarhoven.
+This repository contains the implementation and most of the experiments of the SMRU as reported in the paper `Softmax Recurrent Unit: A new type of gated RNN cell` by Lucas Vos and Twan van Laarhoven.
+
+The paper is accepted and presented at ESANN 2020 proceedings, European Symposium on Artificial Neural Networks, Computational Intelligence
+and Machine Learning. Online event, 2-4 October 2020.
 
 
 ## Reference
-If you use this code or research, please cite the following [paper](https://arxiv.org/abs/XXXX.YYYYY): 
+If you use this code or research, please cite the following :
 
 ```
 @article{VosSMRU2019,
 	author    = {{Vos}, Lucas and {van Laarhoven}, Twan},
 	title     = {Softmax Recurrent Unit: A new type of gated RNN cell},
-	journal   = {arXiv:XXXX:YYYYY},
-	year      = {2019},
+	journal   = {COMING SOON},
+	year      = {2020},
 }
 ```
 
