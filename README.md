@@ -10,11 +10,12 @@ and Machine Learning. Online event, 2-4 October 2020.
 If you use this code or research, please cite the following :
 
 ```
-@article{VosSMRU2019,
-	author    = {{Vos}, Lucas and {van Laarhoven}, Twan},
-	title     = {Softmax Recurrent Unit: A new type of gated RNN cell},
-	journal   = {COMING SOON},
-	year      = {2020},
+@inproceedings{vos2020softmax,
+  title={Softmax Recurrent Unit: A new type of RNN cell.},
+  author={Vos, Lucas and van Laarhoven, Twan},
+  booktitle={ESANN},
+  pages={309--314},
+  year={2020}
 }
 ```
 
